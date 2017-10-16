@@ -1,0 +1,10 @@
+---
+---
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+RewriteRule . index.html [L]
+
+...
+
